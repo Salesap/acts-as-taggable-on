@@ -1,6 +1,7 @@
 Changes are below categorized as follows:
 - Breaking Changes
 - Features
+* [@flickgradley Add tenant: option to tagged_with](https://github.com/mbleigh/acts-as-taggable-on/pull/1102)
 - Fixes
 - Performance
 - Misc
